@@ -33,8 +33,13 @@ To analyze IPL data and identify:
 1. Data Cleaning
 2. Handling Missing Values
 3. Data Analysis
-4. Visualization
-5. Insights Generation
+4. Exploratory Data Analysis (EDA)
+   Univariate analysis
+   Bivariate analysis
+   Multivariate analysis
+5. Visualization
+6. Pivot Tables
+7. Insights Generation
 
 
 ## Key Insights
