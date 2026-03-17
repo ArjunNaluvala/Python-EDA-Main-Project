@@ -19,6 +19,11 @@ To analyze IPL data and identify:
 - Contains match details, teams, players, and results
 
 
+## Dataset Details
+
+- Total Records (Rows): 2,78,205
+- Total Features (Columns): 64
+
 ## Tools & Libraries
 
 - Python
