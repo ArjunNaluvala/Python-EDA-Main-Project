@@ -53,8 +53,3 @@ To analyze IPL data and identify:
 - Impact of toss on winning
 - Top players performance
 - Venue-based analysis
-
-
-## Author
-
-Arjun Naluvala
